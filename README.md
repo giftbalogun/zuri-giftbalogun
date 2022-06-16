@@ -1,11 +1,3 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="zuri-giftbalogun-django" />
-
-&#xa0;
-
-  <!-- <a href="https://zuri-giftbalogun-django.netlify.app">Demo</a> -->
-</div>
-
 <h1 align="center">Gift Balogun</h1>
 <h2 align="center">Student Id: I4G014604DCD</h2>
 
