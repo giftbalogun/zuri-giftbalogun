@@ -2,13 +2,13 @@
 <h2 align="center">Student Id: I4G014604DCD</h2>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/giftbalogun/zuri-giftbalogun-django?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/giftbalogun/zuri-giftbalogun?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/giftbalogun/zuri-giftbalogun-django?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/giftbalogun/zuri-giftbalogun?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/giftbalogun/zuri-giftbalogun-django?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/giftbalogun/zuri-giftbalogun?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/giftbalogun/zuri-giftbalogun-django?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/giftbalogun/zuri-giftbalogun?color=56BEB8">
 </p>
 
 <!-- Status -->
@@ -49,10 +49,10 @@ Before starting :checkered_flag:, you need to have [Python](https://img.shields.
 
 ```bash
 # Clone this project
-$ git clone https://github.com/giftbalogun/zuri-giftbalogun-django
+$ git clone https://github.com/giftbalogun/zuri-giftbalogun
 
 # Access
-$ cd zuri-giftbalogun-django
+$ cd zuri-giftbalogun
 
 # The server will initialize in the <http://localhost:3000>
 ```
